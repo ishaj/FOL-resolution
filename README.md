@@ -2,8 +2,8 @@
 FOl resolution given KB in CNF
 
 The KB has only the following operators:
-NOT X      ~X
-X OR Y     X | Y
+NOT X      ~X  
+X OR Y     X | Y  
 
 Format	for	input.txt:	
 	
